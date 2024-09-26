@@ -5,10 +5,10 @@ ZoomMtg.preLoadWasm();
 ZoomMtg.prepareWebSDK();
 
 function App() {
-  const authEndpoint = ""; // http://localhost:4000
-  const sdkKey = "";
-  const meetingNumber = "";
-  const passWord = "";
+  const authEndpoint = "https://zoom-meeting-sdk-auth-sample-wxmw.onrender.com"; // http://localhost:4000
+  const sdkKey = "TwXKoPRRpuVmdmtcoY29A";
+  const meetingNumber = "78392956216";
+  const passWord = "9LZ5Rz";
   const role = 0;
   const userName = "React";
   const userEmail = "";
